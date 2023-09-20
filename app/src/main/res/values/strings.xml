@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Evaluation Assignment</string>
+
+    <string name="leads_title">Leads</string>
+    <string name="leads_all_leads">All leads</string>
+    <string name="leads_due_today">Due today</string>
+    <string name="leads_follow_date">Follow up: %1$s</string>
 </resources>

@@ -75,6 +75,7 @@ val typography = AppTypography(
     body3 = TextStyle(
         fontSize = 16.sp,
         lineHeight = 24.sp,
+        letterSpacing = 0.15.sp,
         fontWeight = FontWeight.Medium,
     ),
     caption = TextStyle(
